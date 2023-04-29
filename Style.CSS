@@ -1,0 +1,43 @@
+/*Aqui va el comentario*/
+body{
+    background-color:rgb(255, 255, 255);
+    color:black;
+    font-family:'Signika', sans-serif;
+}
+p{
+    color: rgb(64, 175, 255);
+}
+hi{
+    color:rgb(250, 50, 150)
+}
+
+/* Para agregar calse ponemos (.) antes del nombre*/
+
+.titulo-web{
+    color:palevioletred;
+    font-size: xx-large;
+    text-align: center;
+}
+.caracteristicas-de-los-gatos{
+    color: rgb(168, 122, 212);
+    font-size: 20px;
+}
+.imagenes-de-gatos{
+    color: rgb(168, 122, 212);
+    font-size: 20px;
+}
+.listas-de-gatos{
+    color: rgb(168, 122, 212);
+    font-size: 20px;
+}
+.cuestionario-de-tu-gatito{
+    color: rgb(168, 122, 212);
+    font-size: 20px;
+}
+
+img{
+    width: 100px;
+}
+.gatito{
+    text-align: center;
+}
